@@ -1,4 +1,4 @@
-// add solution here
+ // add solution here
 function theBeatlesPlay(aArray, iArray) {
   var array = [];
   for (; aArray.length > 0;) {
